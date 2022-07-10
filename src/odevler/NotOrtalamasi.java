@@ -35,7 +35,7 @@ public class NotOrtalamasi {
 
         double ortalama = ((matematikNotu + fizikNotu + kimyaNotu + turkceNotu + tarihNotu + muzikNotu)/6);
         System.out.println("Ortalamanız: " + ortalama );
-        System.out.println( ortalama >= 60 ? "Sınıfı Geçti":"Sınıfta Kaldı");
+        System.out.println( ortalama >= 60 ? "Sınıfı Geçti":"Sınıfta Kaldı"); //
 
     }
 }
