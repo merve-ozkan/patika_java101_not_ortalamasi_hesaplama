@@ -16,13 +16,5 @@ public class KdvHesaplama {
         System.out.println("KDV Tutari: " + kdvTutari);
         kdvliTutar= kdvTutari+girilenTutar;
         System.out.println("KDV'li Tutar: " + kdvliTutar);
-
-
-
-
-
-
-
-
     }
 }
